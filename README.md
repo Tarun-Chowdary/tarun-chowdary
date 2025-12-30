@@ -11,11 +11,11 @@
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
   
-  <a href="https://github.com/USERNAME">
+  <a href="https://github.com/Tarun-Chowdary">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
   </a>
   
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/taryegi/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
