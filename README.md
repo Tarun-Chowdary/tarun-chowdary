@@ -123,7 +123,7 @@
 
 ## 🤝 Let’s Connect & Collaborate
 - 💌 Email: **yegi.2992@gmail.com**
-- 💼 LinkedIn: *linkedin.com/in/taryegi*
+- 💼 LinkedIn: *[linkedin.com/in/taryegi](https://www.linkedin.com/in/taryegi/)*
 - 🧑‍💻 Open to **internships, collaborations & hackathons**
 
 ---
