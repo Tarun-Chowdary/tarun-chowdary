@@ -47,7 +47,7 @@
 
 ### 👨‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,python,c,cpp,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=js,c,cpp,html,css,sql" />
 </p>
 
 ### ⚙️ Frameworks & Databases
