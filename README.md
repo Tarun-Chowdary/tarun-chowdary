@@ -181,11 +181,6 @@ I care about robustness, interpretability, and shipping things that work in the 
 <div align="center">
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tarun-Chowdary&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Tarun-Chowdary)
- 
-<br/>
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-Chowdary&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
- 
 </div>
  
 ---
