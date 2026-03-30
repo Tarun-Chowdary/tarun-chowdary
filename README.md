@@ -12,7 +12,7 @@
  
 [![Email](https://img.shields.io/badge/yegi.2992%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yegi.2992@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taryegi/)
-[![GitHub](https://img.shields.io/badge/GitHub-Tarun--Chowdary-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tarun-Chowdary)
+[![GitHub](https://img.shields.io/badge/GitHub-Tarun--Chowdary-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tarun-Chowdary/)
  
 </div>
  
@@ -114,7 +114,7 @@ I care about robustness, interpretability, and shipping things that work in the 
           <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
         </a>
         &nbsp;
-        <a href="https://campuswhisper.live">
+        <a href="https://campus-whisper.vercel.app/">
           <img src="https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=vercel&logoColor=white"/>
         </a>
       </p>
