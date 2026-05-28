@@ -84,7 +84,6 @@ I care about robustness, interpretability, and shipping things that work in the 
 | 🎓 **Education** | B.Tech CST @ IIEST Shibpur · CGPA **8.38** |
 | 📈 **JEE Mains 2024** | **98.9 Percentile** — Top **1.3%** among ~1.3 million candidates |
 | 💼 **Consulting** | IIT Guwahati Winter Consulting 2025 — Top **25 percentile** |
-| 👥 **Leadership** | Team Lead — Google Solution Challenge (Flutter + Firebase + Python) |
  
 ---
  
