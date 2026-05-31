@@ -97,7 +97,7 @@ I care about robustness, interpretability, and shipping things that work in the 
 ---
  
 ## 🤝 Open To
- 
+
 - 🔬 Research collaborations in ML security, robustness, or recommender systems
 - 💼 Summer internships (ML / Full-Stack / Backend)
 - 🏗️ Hackathons and open source projects
